@@ -1,24 +1,7 @@
-# date-range-filter-vuejs-local
+# Date Range Table Filter
 
-## Project setup
-```
-npm install
-```
+Filtering table with date range picker (monthly)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<br>
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](month-filter.gif)
