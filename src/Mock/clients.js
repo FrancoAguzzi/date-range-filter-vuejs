@@ -1,34 +1,34 @@
 const Clients = [
   {
-    name: "Franco",
+    name: "Franco Aguzzi",
     dueDate: "January/2020"
   },
   {
-    name: "João",
+    name: "João Olivio",
     dueDate: "March/2020"
   },
   {
-    name: "Jackie",
+    name: "Jacqueline Cardozo",
     dueDate: "May/2020"
   },
   {
-    name: "Juliana",
+    name: "Juliana dos Santos",
     dueDate: "July/2020"
   },
   {
-    name: "Caio",
+    name: "Caio Mandart",
     dueDate: "September/2020"
   },
   {
-    name: "Rodrigo",
+    name: "Rodrigo Divas",
     dueDate: "November/2020"
   },
   {
-    name: "Elaine",
+    name: "Elaine Mattje",
     dueDate: "January/2021"
   },
   {
-    name: "Alex",
+    name: "Alex Souza",
     dueDate: "March/2021"
   },
   {
